@@ -1,4 +1,4 @@
-# AudioCoin Official Development Repo
+# Audiocoin Official Development Repo
 
 ### What is Audiocoin?
 [Audiocoin](https://www.audiocoin.eu/) (ADC) - HELPING ARTISTS & FANS TAKE BACK MUSIC
